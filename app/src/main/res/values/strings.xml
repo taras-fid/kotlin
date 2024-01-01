@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- login_screen strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="time_string">9:30</string>
+	<string name="label_text_string"> </string>
+	<string name="____ek2_string"></string>
+	<string name="label_text_ek1_string"></string>
+	<string name="_________email_____________________________string"> email    </string>
+	<string name="________________________string">  </string>
+	<string name="____________________________string">   </string>
+</resources>
